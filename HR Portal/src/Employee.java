@@ -1,3 +1,5 @@
+//This abstract class sets the template of what an employee is using common factors such as a name, id, and years_employed.
+//It also sets up the functions being used to grab the employees name and pay.
 abstract class Employee {
     protected String name;
     protected String id;
